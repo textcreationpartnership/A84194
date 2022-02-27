@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact and true relation of the late plots which were contrived and hatched in Ireland. 1. A coppy of a letter sent from the Lord chiefe Iustices and Privy Councell in Ireland, to our parliament here in England. 2. Their last proclamation which they published concerning those traytors. 3. The whole discourse of the plot revealed by Owen Ockanellee who is now in Englond [sic]. 4. The dangerous and extraordinary deliverance of the party who narrowly escaped with his life. 5. The reward the Parliament hath confirmed upon him. 6. The true relation of the whole treason related by the Lord Keeper, to the Honourable House of Commons the first of November. 1641.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84194</idno>
+            <idno type="STC">Wing E3621</idno>
+            <idno type="STC">Thomason E173_30</idno>
+            <idno type="STC">ESTC R16518</idno>
+            <idno type="EEBO-CITATION">99860047</idno>
+            <idno type="PROQUEST">99860047</idno>
+            <idno type="VID">157068</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84194)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157068)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E173[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact and true relation of the late plots which were contrived and hatched in Ireland. 1. A coppy of a letter sent from the Lord chiefe Iustices and Privy Councell in Ireland, to our parliament here in England. 2. Their last proclamation which they published concerning those traytors. 3. The whole discourse of the plot revealed by Owen Ockanellee who is now in Englond [sic]. 4. The dangerous and extraordinary deliverance of the party who narrowly escaped with his life. 5. The reward the Parliament hath confirmed upon him. 6. The true relation of the whole treason related by the Lord Keeper, to the Honourable House of Commons the first of November. 1641.</title>
+                  <author>O'Connolly, Owen.</author>
+                  <author>Ireland. Lords Justices and Council.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>5, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Coules,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The title page has a woodcut illustration.</note>
+                  <note>Page 3 has drop-head title: "A proclamation, by the Lords Iustices and Councell." This proclamation is dated 1641-10-23.</note>
+                  <note>L Copy lacks all but first leaf.</note>
+                  <note>Reproduction of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+               <term>Ireland --  Politics and government --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157068:1"/>
+            <pb facs="tcp:157068:1" rendition="simple:additions"/>
+            <p>An Exact and true Relation of the late Plots which were con<g ref="char:EOLhyphen"/>trived and hatched in <hi>Ireland.</hi>
+            </p>
+            <list>
+               <item>1. A Coppy of a Letter ſent from the Lord chiefe Iuſtices and Privy Councell in <hi>Ireland,</hi> to our parliament here in <hi>England.</hi>
+               </item>
+               <item>2. Their laſt Proclamation which they publiſhed concerning thoſe Traytors.</item>
+               <item>3. The whole Diſcourſe of the Plot revealed by <hi>Owen Ockanellee</hi> who is now in <hi>Englond.</hi>
+               </item>
+               <item>4. The dangerous and extraordinary deliverance of the party who narrowly eſcaped with his life.</item>
+               <item>5. The reward the Parliament hath confirmed upon him.</item>
+               <item>6. The true Relation of the whole Treaſon related by the Lord Keeper, to the Honourable Houſe of Commons the firſt of <hi>November.</hi> 1641.</item>
+            </list>
+            <figure>
+               <figDesc>group of men standing in front of courtyard</figDesc>
+            </figure>
+            <p>London Printed for <hi>Francis Coules.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:157068:2"/>
+            <head>The true Coppy of a Letter written from a Gentleman in <hi>Ireland,</hi> to his friend in <hi>England</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Could not omit to write unto you, to give you to underſtand of a miraculous deliverance, which the Lord in mercy hath vouchſafed unto the poore Proteſtants in this Kingdome, which you may perceive by the Proclamation encloſed; for I have not time to relate the whole ſtory, or bloudy Tragedy, which was intended againſt us: The execution ſhould have bin on the Satur<g ref="char:EOLhyphen"/>day, which was diſcovered on Friday night, by a man of Sir <hi>Iohn Clatworthy,</hi> an <hi>Iriſh</hi> Knight, but one of your Houſe of Com<g ref="char:EOLhyphen"/>mons, and this day being the Sabboth, hath bin the troubleſomeſt day that ever I ſaw in all my daies, mixt with joy and ſorrow; joy for our our gracious deliverance, and much perplexed by feares of our approaching enemies, expecting every houre when the City ſhould be ſurprized, that for my part and many others, haue had but little reſt day and night for theſe two dayes, but how many more it is onely knowne to God; the Enemy hath in the North parts of this Kingdome, taken two Lords Caſtles, and two Townes, one of them of great ſtrength and much munition in it, and as it is verily beleeved, they doe ſtill encreaſe in great multitudes: here is taken a Lord, and divers others of note, and others the number of forty, which are ſafe in Priſon, and hope of many more: the Lord is called the Lord <hi>Maguere,</hi> and the Pa<g ref="char:EOLhyphen"/>piſts make it a Religious Warre which they they had no cauſe to doe, for they have had a long time as much liberty as wee have had, if not more; but their father the Divell hath ſet them upon this damnable act I hope to their utter ruine in this Kingdome, if the Lord in mercy open our Kings eyes, and your Parliaments hearts to take pitty upon us, for no hope of Reformation is to bee had here, for they are ten for one of us through this Kingdome as is verily beleeved<g ref="char:punc">▪</g> I have bin ſo employed Day and Night theſe two daies, that I can hardly write thus much unto you, but deſire your prayers and all good people for us, and when more is diſco<g ref="char:EOLhyphen"/>vered, if the Lord preſerve me with life, you ſhall beare farther from me, in the meane time pray for us all.</p>
+            <closer>
+               <signed>Your loving friend <hi>W. B.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="proclamation">
+            <pb facs="tcp:157068:2"/>
+            <head>A Proclamation, by the Lords Iuſti<g ref="char:EOLhyphen"/>ces and Counſell.</head>
+            <opener>
+               <salute>W. Parſons. Io. Borlaſe.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe are to make knowne, and publiſh to all His Majeſties good Subjects in this King<g ref="char:EOLhyphen"/>dome of <hi>Ireland,</hi> that there is a diſcovery made by us the Lords Iuſtices and Councell, of a moſt diſloyall and deteſtable Conſpiracie <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntended by ſome affected <hi>Iriſh</hi> Papiſts a<g ref="char:EOLhyphen"/>gainſt the lives of Vs, the Lords Iuſtices and Counſell, and many other of his Majeſties faithfull Subjects, uni<g ref="char:EOLhyphen"/>verſally throughout this Kingdome<g ref="char:punc">▪</g> for the ſeizing not onely of his Majeſties Caſtle of Dublin, his Majeſties principall Fort here, but alſo of the other Fortifications in the Kingdome: And ſeeing by the great goodneſſe and abundant mercy of Almighty God to his Majeſty, and this State and Kingdome, thoſe wicked Conſpi<g ref="char:EOLhyphen"/>racies are brought to light, and ſome of the Conſpirators commit<g ref="char:EOLhyphen"/>ted to the Caſtle of <hi>Dublin,</hi> by Vs, by his Majeſties Authority, ſo as thoſe wicked and damnable Plots are now diſſapointed in the chiefe parts thereof, We therefore have thought fit hereby not onely to make it publikely known, for the comfort of his Majeſties good and loyall Subjects in all parts of the Kingdome, but alſo hereby to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>equire them that they doe with all confidence and cheerefulneſſe betake themſelves to their owne defence, and ſtand upon their own guard, ſo to render the more ſafety to themſelves, and all the King<g ref="char:EOLhyphen"/>dome beſides, and that they advertiſe Vs with all poſſible ſpeed of all Occurrents which may concerne the Peace and ſafety of the Kingdome: and now to ſhew fully that Faith and Loyalty which they have alwaies ſhowne for the publike ſervices of the Crowne and Kingdome, which We will value to his Majeſty accordingly, and a ſpeciall memory thereof will be retained for their advantage in due time. And We require that<g ref="char:punc">▪</g> great care be taken that no Le<g ref="char:EOLhyphen"/>vies of mon be made for forraine ſervice, nor any men ſuffered to march upon any ſuch pretence,</p>
+            <closer>
+               <dateline>Given as his Majeſties Caſtle at <hi>Dublin.</hi> 
+                  <date>
+                     <hi>23.</hi> October. <hi>1641.</hi>
+                  </date>
+               </dateline>
+               <signed>R. Dillon. Ro. Digby. Ad. Loftus. J. Temple. Tho. Rother<g ref="char:EOLhyphen"/>ham. Fr. Willoughby. Ja. Ware. Rob. Meredith.</signed>
+            </closer>
+            <closer>God ſave the King.</closer>
+         </div>
+         <div type="text">
+            <pb n="4" facs="tcp:157068:3"/>
+            <head>The whole relation of the helliſh treaſon in Ireland, as it was related by my Lord Keeper in the houſe of Commons <hi>November the firſt, 1641.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lord Keeper declared unto the Houſe of Commons, that the Lord Deputy of <hi>Ireland</hi> had received a letter from the two Lord Chief Iuſtices and Privie Counſell in <hi>Ireland,</hi> of the diſcovery of an Horrible plot by the Ieſuites, popiſh prieſts and other Papiſts in the King<g ref="char:EOLhyphen"/>dome of <hi>Ireland,</hi> for the murdering of the two Chiefe Iuſtices and all the Privie Counſel and Proteſtants of <hi>Ireland,</hi> as alſo to ſeaze on all the Kings Forts, Ca<g ref="char:EOLhyphen"/>ſtles, and Magaſens whatſoever, and moreover, that they would murder all perſons that ſhould oppoſe them in any of their intenti<g ref="char:EOLhyphen"/>ons and deſires, which were theſe.</p>
+            <p>Firſt, to have their Crowne not to be dependant upon <hi>England,</hi> nor to be a conquered Nation.</p>
+            <p>Secondly, to have their <hi>Iriſh</hi> Lawes eſtabliſhed, and ſuch as ſhold be made hereafter.</p>
+            <p>Thirdly, to have free liberty of the exerciſe of their Religion.</p>
+            <p>The Earl of <hi>Leiceſter</hi> declared the ſame alſo, adding that he had the originall of a proclamation which was made there, and had cauſed the ſame to be copyed out. The Letter bears date the 23. of <hi>October,</hi> 1641. declaring that <hi>Hugh Ocoret</hi> went to <hi>Dublin</hi> unto the lodging of <hi>Hugh Maymubawne</hi> his very good friend, and hee and his friend going to the lodging of the Lord Marques, under<g ref="char:EOLhyphen"/>ſtood great ſtore of Noble men and ſtrangers had beene there, but they were all gone abroad, and they could not find them; whrfore they returned back again to his friends lodging, where his friend revealed unto him the whole Plot; but ſwore unto him he ſhould not ſtir til it was put into execution, and therefore his friend com<g ref="char:EOLhyphen"/>manded his ſervants to looke narrowly to him: but after a while he fained ſome excuſe of neceſſity for his going downe, which his friend gave way too, but ſent his ſervants with him: when he was come downe, the ſervants not being ſo carefull to watch him as they might have been, he leaped over a wall in the yard, and made an eſcape, and went to Sir <hi>Iohn Burlacy,</hi> and diſcovered to him the
+<pb n="5" facs="tcp:157068:3"/>whole plot which was this, as I will truely relate it.</p>
+            <p>That at 9 of the clocke the next morning, the <hi>Iriſh</hi> Rebels (a<g ref="char:EOLhyphen"/>mongſt whom the Lord <hi>Marques</hi> was on of the chiefeſt) intended at one houre and moment of time, to maſſacre and murder all the Engliſh and proteſtant in the Kingdom of <hi>Ireland,</hi> likewiſe to mur<g ref="char:EOLhyphen"/>der the two Lord chiefe Iuſtices, and al the privie counſel at <hi>Dub<g ref="char:EOLhyphen"/>lin,</hi> and at the ſame time to ſeaze upon al the Kings Caſtles, Ports, and Magazens throughout the whole Kingdome of <hi>Ireland,</hi> as alſo the Caſtle of <hi>Dublin,</hi> and that if they ſhould finde any of the Citie that would not ſubmit to them, then they would ſhoot down from the Caſtle, the tops of the chimnys to affright them, and if that did not prevail, they would then batter down their houſes about their cars. Hereupon the Lord chief Iuſtice and the privy Counſel of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> ſat al night in conſultation, and took the beſt courſe they could imagin of for the ſafeguard &amp; ſecurity of themſelves; together with the Caſtle &amp; City of <hi>Dublin.</hi> The next morning they apprehended great ſtore of theſe Traitors and rebels, together with the L. <hi>Mar<g ref="char:EOLhyphen"/>quiſe,</hi> who was gone from his lodging before day and hid in a cock loft, and at his lodging they found great ſtore of skains, hammers, and hatchets without halves. The ſame day they had notice of ſeve<g ref="char:EOLhyphen"/>rall places and Forts ſeazed upon in <hi>Conno</hi> and <hi>Monno</hi> and other places, together with ſeverall villages plundered by the rebels; but they wrote word that they did not beleeve that diſtemper was ſo generall as was reported to bee, and then they made no queſtion but they ſhould with care and pains bring all to a good iſſue; to to that end they had ſent for 500. of the Horſe to come and guard them at <hi>Dublin,</hi> and had likewiſe raiſed 500. <hi>Engliſh</hi> for the ſuc<g ref="char:EOLhyphen"/>couring of themſelues and the City, and that out of thoſe 500. the had choſen an 100. to be put into the Caſtle under the command of Sir <hi>Francis Willoughby,</hi> who they hoped would give a good ac<g ref="char:EOLhyphen"/>compt to his Majeſty of the place fees two monthes: And in the meane time for feare leaſt there ſhould be ſome further and wor<g ref="char:EOLhyphen"/>ſer plots then they knew of, they did deſire that the Parliament in <hi>England</hi> would ſend them down their Lord Lieftenant with men, money and Amunition. They further gave us to underſtand, that they had taken order for their army of old Souldiers, to be in a rea<g ref="char:EOLhyphen"/>dineſſe and to march in oppoſition to any of the rebels that ſhould draw to a head.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:157068:4"/>
+            <head>The Coppy of a Letter from the Lord chiefe Iuſtices, and privy Counſellours in <hi>Ireland.</hi> to the Lords now aſſembled in Parliament here in <hi>England.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">O</seg>Ne Friday the</hi> 22. <hi>of October,</hi> Owen Ockanellee, <hi>ſervant to</hi> Iohn Clotworthy, <hi>at nine of the Clock in the night, came and diſcovered a Plot for the ſeizing of the Caſtle of</hi> Dublin, <hi>and making themſelves Maſters of the whole King<g ref="char:EOLhyphen"/>dome; We ſate all night in debate, and the next morning we ſearcht the whole City of</hi> Dublin <hi>and found many of the Conſpirators there, and amongſt the reſt one</hi> Hugh Mackmoen, <hi>and ſeverall others of the Family of</hi> Oneale.</p>
+            <p>
+               <hi>The Lords of the Councell cauſed all the parts of the City to bee ſtrongly guarded; And in the morning we went to ſearch for the Lord of</hi> Mackquere <hi>at his Lodging from whence (when wee came there) we found he was departed in the morning before day (as was reported) but ſearching narrowly into his Lodgings and roomes, we found ſeverall Skaynes, headleſſe Hatchets, and Hammers in abun<g ref="char:EOLhyphen"/>dance, and in the end found him ſecretly hid in a Cock-loft; and af<g ref="char:EOLhyphen"/>ter he was taken, being examined hee denyed all, but that hee had heard of it before. Great ſtore of people were obſerved to bee in the City that Night more then uſuall, and the Suburbs was ſo throng'd with people and ſtrangers, that they put the City in a fright, where<g ref="char:EOLhyphen"/>fore wee were forced to draw up a Proclamation for all men and ſtrangers whatſoever to depart the City, or elſe to ſhew good cauſe for their ſtay there; And that all men whatſoever that had any hand in the Plot ſhould have a generall Pardon, if now they would come in and confeſſe their faults, and make any further diſcovery then was yet knowne.</hi>
+            </p>
+            <div type="part">
+               <head>The Diſcovery.</head>
+               <p>OWen Ockanellee, <hi>who is ſervant to Sir</hi> Iohn Clatworthy, <hi>came to</hi> Dublin <hi>to the Lodging of</hi> Hugh Ogmackmahawne <hi>his very loving friend, and</hi> Ockanellee <hi>with his friend going to the Lodging of the Earle of</hi> Mackquere, <hi>underſtood there had bin great ſtore os Noble men and ſtrangers, but they were all gone abroad
+<pb facs="tcp:157068:4"/>whereupon they returned backe againe to the Lodging of the ſaid</hi> Og<g ref="char:EOLhyphen"/>mackmahawne <hi>where</hi> Ockanellee <hi>had not bin any long ſpace, but</hi> Ogmackmahawne <hi>declares to him a Plot which was intended, ſwea<g ref="char:EOLhyphen"/>ring that</hi> Ockanellee <hi>ſhould not goe out of his houſe till it had bin ex<g ref="char:EOLhyphen"/>ecuted (which was) that the Ieſuits, popiſh Prieſts, and other Papiſts, together with two Sects of</hi> Iriſh, <hi>and amongſt the reſt the ſaid</hi> Hugh Ogmackmahawne <hi>and</hi> Bryan Oneale <hi>with others ſhould have come and ſeized upon the Caſtle at</hi> Dublin, <hi>and the Earle of</hi> Macquere <hi>ſhould be Governour thereof, which when they had attained unto, they ſhould have ſhot at the Chimnies, and by that meanes have tryed if they could have brought the City in ſubjection; but if ſhooting at Chimneys could not prevaile, then they ſhould have ſhot downe their Houſes about their eares, and at one houre, and one moment of time to have murthered all the</hi> Engliſh <hi>and Proteſtants in the Kingdome</hi> Ireland; <hi>and to have murthered the two Lord chiefe Iuſtices, and all the Privy Councell of</hi> Dublin, <hi>and at the ſame time to have ſeized on all his Majeſties Caſtles, Forts, and Magazins throughout the whole Kingdome, and all perſons that ſhould be refractory to have de<g ref="char:EOLhyphen"/>ſtroyed with the ſword, which</hi> Ockanellee <hi>hearing, feigned an excuſe to goe into the yard to nutruſſe a point, to which his friend</hi> Ogmac<g ref="char:EOLhyphen"/>mahawne <hi>conſented unto, but withall commanded his ſervants to goe along with him, and bee carefull of him, that hee did not ſlip from them, but</hi> Ockanellee <hi>finding his opportunity leaped over the pales in the yard, and made an eſcape and went to Sir</hi> Iohn Burlacy, <hi>and Sir</hi> William Parſons, <hi>and diſcovered the whole matter.</hi>
+               </p>
+               <p>
+                  <note place="margin">The Contents of another let<g ref="char:EOLhyphen"/>ter.</note>NOw Courteous Reader, amongſt many other remarkable deliverances of divers and ſundry perſons from time to time, by the power of the Almightie, let this take your ſerious thoughts for one, not of the meaneſt, but among the greateſt, this partie <hi>Owen Ockanelle,</hi> who was ſervant to Sir <hi>Iohn Clatworthy</hi> being ſuſpected by ſome of the Conſpirators who were ſworne to ſecreſie therein, to have diſcovered this plot, by his divers times perſwading them to deſiſt from their divelliſh and diabo<g ref="char:EOLhyphen"/>licall intentions, telling them what a hainous matter it was to cauſe rebellion in their native Countrie, and the dangerous e<g ref="char:EOLhyphen"/>vills that might happen to their owne perſons, and their preſent eſtates, and their poſterity after them. Theſe Conſpirators fin<g ref="char:EOLhyphen"/>ding this party cold in the buſineſſe, one amongſt the reſt breaks out in a paſſion, and ſwore to the reſt of the company, that the aforeſaid partie had revealed their plot, and without any more advice pulls forth a Piſtoll (for all of them had ſwords and pi<g ref="char:EOLhyphen"/>ſtols) which was charged with a brace of Bullets, and
+<pb facs="tcp:157068:5"/>ſet to this <hi>Owens</hi> breaſt, intending to ſhoot him thorow at that inſtant; which was prevented by the divine power, in that the flint did not ſtrike fire, ſome of the Company being much affrighted at this ſuddaine aſſault, be<g ref="char:EOLhyphen"/>gan to be angrie, and to aske this partie <hi>Randal Mac-Donell</hi> that would have ſhot him, how hee could prove that <hi>Owen</hi> had ſpoken of it to any partie or parties, or in any forn or kind betrayed their cauſe? to which <hi>Mac-Donel</hi> could give no certain anſwer, but only this, that he did ſurmiſe, and his heart did thinke ſo, nay then ſaid the reſt you are too blame to offer this as you have done: this no ſooner appeaſed, but another in the ſame paſſion, and of the afore ſaid company, ſeconds the formers motion, whoſe name was <hi>Ni<g ref="char:EOLhyphen"/>cholas Cuſock,</hi> who u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ged <hi>Owen Ockanelle,</hi> that he was the man, and onely he that the cauſe was betrayed; which the afore-ſaid <hi>Owen</hi> denying with ma<g ref="char:EOLhyphen"/>ny proteſtations, and with man-like courage, which was by Gods provi<g ref="char:EOLhyphen"/>dence in giving him ſpirit at that time, nevertheleſſe the ſaid <hi>Cuſock</hi> made at him with another Piſtoll charged with a brace of bullets alſo; but whe<g ref="char:EOLhyphen"/>ther the powder in the pan was damp, or the flint not good, thanks be given to God he miſſed his intent, this was the ſecond deliverance: now being ſtil in the aforeſaid houſe, and not ſuffered to ſtirre, but watched and guarded, for feare of his eſcape; words grew, inſomuch that a partie amongſt them run a tilt at him with his naked ſword, which was put aſide by meanes of one in the company who was behind him, and ſtaid his arme. To be ſhort, 10. or 12. hours being thus ſpent, about ten or eleven of clock at night this <hi>Owen</hi> had occaſion to eaſe himſelf and his body, and would have beene gone, which they denyed him; at laſt by much perſwaſion, they gave conſent that he ſhould goe downe the ſtaires into the yard, and foure others of the com<g ref="char:EOLhyphen"/>pany to guard him, and bring him back againe; but <hi>Owen</hi> having this oppor<g ref="char:EOLhyphen"/>tunitie, it being dark, and the yard ſpacious at a convenient place leaps upon the pale, being twice his heighth, and over he gets, then over a brick wal as high, and ſo into the high way, and runs to the Citie, which was halfe a mile diſtant from the houſe, and there reveales the whole plot to Sir <hi>Iohn Burlacy</hi> and other Iuſtices of the peace who forthwith rais'd the Citie, and came to the place, and found ſome of theſe Conſpirators, which they aprehended, o<g ref="char:EOLhyphen"/>thers of them run away and hid themſelves: ſome of them being examined, partly through feare, others to get favour<g ref="char:punc">▪</g> confeſſed they were to have an ar<g ref="char:EOLhyphen"/>my of 17000. from ſeverall parts of <hi>Ireland,</hi> which ſhould be all papiſts &amp; Ieſuites that ſhould ſurpriſe all the Caſtles &amp; Forts, but eſpecially the Caſtle of <hi>Dublin,</hi> cut the throats of the chiefeſt Noble-men, Gentry, and others of that Kingdome that were there preſent. And this being thus diſcovered by <hi>Owen Ockanelle,</hi> he was diſpatched with letters into <hi>England</hi> to make known to the Lords now preſent in Parlament what he had diſcovered: who for his good ſervice and fidelity therein, the Honourable Houſe hath thought fit to give the ſaid <hi>Owen</hi> 500. pounds, and 200. a yeare for ever: and to be pre<g ref="char:EOLhyphen"/>ferred to one of the chiefe places under the Deputy in <hi>Jreland.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
